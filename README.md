@@ -1,6 +1,6 @@
 # Solution for Progress Bar Stuck and Error 1109, 3194
 
-But for now, if anyone has a problem with updating to 18.1 or in general:
+If anyone has a problem with updating to 18.1 or in general:
 
 * If stuck on the progress bar, force restart as usual; Volume Up, then Down, Hold Power/Side Button until logo shows then release
 * The recovery mode screen will show up and connect your phone
