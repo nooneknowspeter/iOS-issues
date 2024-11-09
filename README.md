@@ -3,7 +3,8 @@
 If anyone has a problem with updating to 18.1 or in general:
 
 * If stuck on the progress bar, force restart as usual; Volume Up, then Down, Hold Power/Side Button until logo shows then release
-* The recovery mode screen will show up and connect your phone
+* The recovery mode screen will show up
+* Connect your phone to your computer
 
 ## 3u Tools Method
 
