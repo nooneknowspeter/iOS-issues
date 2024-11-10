@@ -5,6 +5,7 @@ If anyone has a problem with updating to 18.1 or in general:
 * If stuck on the progress bar, force restart as usual; Volume Up, then Down, Hold Power/Side Button until logo shows then release
 * The recovery mode screen will show up
 * Connect your phone to your computer
+* Also use the ipsw file that corresponds to your phone and the iOS version, you can use a vpn to download it off the Apple Developer page
 
 ## 3u Tools Method
 
